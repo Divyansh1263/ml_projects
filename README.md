@@ -5,7 +5,7 @@ This repository contains my projects as I learn Machine Learning, Deep Learning,
 ## Roadmap
 
 ### 🟢 Beginner
-- [ ] **Project 1**: Titanic Survival Prediction (Logistic Regression)
+- [x] **Project 1**: Titanic Survival Prediction (Logistic Regression, RF, SVM, KNN) - *Completed* (Accuracy: ~80% after Feature Scaling)
 - [ ] **Project 2**: House Price Prediction (Linear Regression)
 
 ### 🟡 Intermediate
